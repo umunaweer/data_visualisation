@@ -19,3 +19,4 @@ The dataset had:
 SELECT DISTINCT *
 FROM raw_data
 WHERE column IS NOT NULL;
+```
