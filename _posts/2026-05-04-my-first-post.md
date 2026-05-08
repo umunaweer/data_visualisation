@@ -15,8 +15,9 @@ The dataset had:
 
 ## The Solution
 
-```sql
+`````sql
 SELECT DISTINCT *
 FROM raw_data
 WHERE column IS NOT NULL;
-```
+`````
+`````
