@@ -3,3 +3,14 @@ baseurl: "/data_visualisation"
 url: "https://umunaweer.github.io"
 theme: minima
 future: true
+
+# Show oldest post first (Part 1 at top)
+posts_limit: 0
+
+header_pages:
+  - index.md
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
