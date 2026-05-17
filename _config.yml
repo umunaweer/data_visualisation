@@ -2,3 +2,4 @@ title: Upeksha's Data Blog
 baseurl: "/data_visualisation"
 url: "https://umunaweer.github.io"
 theme: minima
+future: true
