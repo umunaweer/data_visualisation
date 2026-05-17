@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Part 5: Scheduling & Automating Your Dashboard"
-date: 2026-05-19
+date: 2026-05-18
 categories: [data-visualisation, beginner]
 tags: [python, automation, scheduling, cron, github-actions, plotly]
 ---
