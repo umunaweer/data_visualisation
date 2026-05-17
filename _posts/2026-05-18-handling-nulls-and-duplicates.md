@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Part 2: Handling Nulls & Duplicates in Python and SQL"
-date: 2026-05-17
+date: 2026-05-18
 categories: [data-cleaning, beginner]
 tags: [python, sql, pandas, nulls, duplicates]
 ---
