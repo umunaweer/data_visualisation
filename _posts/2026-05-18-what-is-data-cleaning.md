@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Part 1: What Is Data Cleaning & Why Does It Matter?"
-date: 2026-05-17
+date: 2026-05-18
 categories: [data-cleaning, beginner]
 tags: [python, sql, pandas]
 ---
