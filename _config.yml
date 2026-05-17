@@ -1,2 +1,14 @@
 title: My Data Blog
+description: A beginner-friendly blog on data cleaning with Python and SQL
 theme: minima
+
+author:
+  name: Kingston
+
+minima:
+  skin: dark
+
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
