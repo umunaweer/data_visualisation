@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Part 2: Handling Nulls & Duplicates in Python and SQL"
