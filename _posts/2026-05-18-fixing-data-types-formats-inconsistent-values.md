@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Part 3: Fixing Data Types, Formats & Inconsistent Values"
-date: 2026-05-17
+date: 2026-05-18
 categories: [data-cleaning, beginner]
 tags: [python, sql, pandas, data-types, formatting]
 ---
